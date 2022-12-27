@@ -1,0 +1,33 @@
+
+%% Description of codes in the subdirectory.
+%% The following codes perform t-SNE algorithm
+
+tsne.m performs symmetric t-SNE on dataset X.
+d2p.m identifies appropriate sigma's to get kk NNs up to some tolerance.
+tsne_d Performs symmetric t-SNE on the pairwise Euclidean distance matrix D.
+tsne_p Performs symmetric t-SNE on affinity matrix P
+x2p identifies appropriate sigma's to get kk NNs up to some tolerance. 
+
+tsne.m：在数据集X上执行对称T-SNE。
+
+d2p.m：确定适当的sigma以使kk NNS达到某个公差
+
+tsne_d：对成对欧氏距离矩阵D执行对称T-SNE
+ 
+tsne_p：对亲和矩阵p执行对称T-SNE
+
+x2p:确定应用程序适当的sigma，以使kk NNS达到一定公差
+
+
+
+
+
+
+
+
+
+
+
+
+
+
